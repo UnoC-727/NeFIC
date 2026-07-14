@@ -1,0 +1,22 @@
+# Ignored local folder
+ignore/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local docs/logs
+docs/
+
+# Local benchmark script
+inference/run_benchmark_all.sh
+inference/run_lambda5_ablation.sh
+inference/run_lambda1_ablation_div2k.sh
+inference/run_aigc_val_lambda1_entropy.sh
+
+# Local test results
+inference/results_*/
+
+# Tests
+tests/
+.claude/

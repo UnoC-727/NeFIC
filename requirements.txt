@@ -1,0 +1,13 @@
+# NeFIC Dependencies
+torch>=2.0
+torchvision
+einops
+diffusers>=0.28.0
+transformers
+peft
+compressai
+pyiqa
+Pillow
+numpy
+flash-attn>=2.5
+xformers>=0.0.25
